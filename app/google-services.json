@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "819647370341",
+    "firebase_url": "https://uplane-ticket-project-default-rtdb.firebaseio.com",
+    "project_id": "uplane-ticket-project",
+    "storage_bucket": "uplane-ticket-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819647370341:android:ff3e98f699f01476d4228c",
+        "android_client_info": {
+          "package_name": "com.uilover.project2262"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByL-QXeTQj6jXyWqXY1ABNBGekhGTnYfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
